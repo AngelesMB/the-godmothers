@@ -1,6 +1,6 @@
 <h1 align="center">First Collaborative Project at Adalab Bootcamp</h1>
 
-<h2 align="center">The Godmothers: Passionate Front-End developers</h2>
+<h2 align="center">The Godmothers: Passionate Front-End Developers</h2>
 
 ![](https://i.imgur.com/xiV9FLB.png)
 
